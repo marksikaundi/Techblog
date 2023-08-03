@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>My Blog | Explore the new horizon</title>
+        <title>Techblog | Explore the new horizon</title>
         <link rel="icon" href="/smallLogo.ico" />
       </Head>
 
